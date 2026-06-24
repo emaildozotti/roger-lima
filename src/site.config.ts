@@ -15,7 +15,8 @@ export const SITE = {
     'Este serviço não oferece atendimento de emergência ou plantão psicológico. Em caso de crise suicida, surto ou risco à vida, procure o hospital mais próximo ou ligue para o CVV (188).',
   waLink:
     'https://wa.me/5516988281333?text=Ol%C3%A1%20Roger%2C%20vim%20pelo%20site.%20Gostaria%20de%20agendar%20uma%20conversa%20inicial%20pra%20entender%20se%20o%20M%C3%A9todo%20TEN%20faz%20sentido%20pra%20mim.',
-  videoUrl: 'https://www.youtube.com/embed/XXXXXXXXXXX',
+  videoUrl: 'https://www.youtube.com/embed/MJi3jWrQxWs',
   fotoHero: '/foto-hero.jpg',
   fotoAbout: '/foto-about.jpg',
+  fotoVideo: '/foto-video.jpg',
 }
