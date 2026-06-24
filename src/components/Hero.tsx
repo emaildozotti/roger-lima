@@ -7,8 +7,8 @@ import { SITE } from '../site.config'
 // ════════════════════════════════════════════════════════════════════
 const COPY = {
   callout: 'QUEBRE O CICLO EMOCIONAL',
-  h1: 'A casa que você jurou nunca virar',
-  h1Em: 'agora está dentro da sua.',
+  h1: 'A raiva que você herdou em casa',
+  h1Em: 'já está chegando nos seus filhos.',
   subtitle: 'Atendimento online com terapeuta integrativo, Método TEN, pra adultos que querem sair da reatividade automática herdada da família.',
   ctaPrimary: 'Agendar conversa inicial',
   ctaSecondary: 'ou veja como o processo funciona',
